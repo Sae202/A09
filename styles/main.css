@@ -53,8 +53,7 @@ header img {
 }
 /* the styles for the main content */
 main {
-	clear: left;
-	padding: 0 30px;
+	clear: left; 	padding: 0 30px;
 
 }
 main h1 {
